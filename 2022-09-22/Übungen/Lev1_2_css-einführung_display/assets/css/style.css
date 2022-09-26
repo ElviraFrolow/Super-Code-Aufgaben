@@ -1,0 +1,32 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+header nav {
+    background-color: red;
+    padding: 20px;
+}
+
+ul {
+    background-color: yellow;
+    padding: 10px;
+    text-align: right;
+}
+
+li {
+    background-color: blueviolet;
+    color: white;
+    margin: 10px;
+    list-style-type: none;
+    display: inline-block;
+}
+
+a {
+    color: white;
+}
+
+main section {
+    background-repeat: no-repeat;
+    background-size: cover;
+}

@@ -1,0 +1,12 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+section p {
+    width: 400px;
+    background-color: blue;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid black;
+}

@@ -1,0 +1,63 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    height: 100%;
+    text-align: center;
+}
+
+@font-face {
+    font-family: fredericka ;
+    src: url(../fonts/Fredericka_the_Great/FrederickatheGreat-Regular.ttf);
+}
+
+@font-face {
+    font-family: open-sans;
+    src: url(../fonts/Open_Sans/OpenSans-VariableFont_wdth\,wght.ttf);
+}
+
+header {
+    color: white;
+    height: 100%;
+    width: 100%;
+    background-image: url(../img/Lev3_2_css-einführung_box-model_img.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ article {
+    min-height: 100%;
+    min-width: 100%;
+    margin: 250px;
+    padding: 250px; 
+ }
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+h1, h2 {
+    font-family: fredericka;
+
+}
+
+p, a {
+    font-family: open-sans;
+}
+
+
+
+
+
+
+
+
+footer {
+    background-color: gray;
+}
+
+
+

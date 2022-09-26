@@ -1,0 +1,32 @@
+h2 {
+    font-size: 48px;
+    background-color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h3 {
+    text-decoration: overline;
+
+}
+
+h4 {
+    text-decoration: line-through;
+    text-align: center;
+}
+
+h5 {
+    text-decoration: underline;
+    text-align: right;
+}
+
+p {
+    color: #333;
+    font-size: 20px;
+}
+
+li {
+    color: #777;
+    font-size: 20px;
+}
+

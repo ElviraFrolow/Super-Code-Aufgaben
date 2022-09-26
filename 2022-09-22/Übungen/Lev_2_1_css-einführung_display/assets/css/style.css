@@ -1,0 +1,23 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+article {
+    text-align: center;
+    display: inline-block;
+    box-sizing: border-box;
+    border: 1px solid black;
+    width: 400px;
+    padding: 40px 10px;
+    margin: 5px;
+    min-width: 400px;
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+}

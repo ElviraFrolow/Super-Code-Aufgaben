@@ -1,0 +1,43 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+h2 {
+    color: red;
+}
+
+@font-face {
+    font-family: ;
+    src: url(../fonts/Montserrat/Montserrat-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url(../fonts/Montserrat/Montserrat-VariableFont_wght.ttf);
+}
+
+p {
+    font-size: 16px;
+    font-family: Montserrat;
+}
+
+img {
+    margin: 20px;
+    width: 100px;
+    border-radius: 50%;
+    border: 5px solid green;
+}
+
+div{
+    background-color: grey;
+
+}
+
+div p {
+    color: green;
+}
+
+ul{
+    list-style: inside;
+}
